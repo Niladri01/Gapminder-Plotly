@@ -2,14 +2,16 @@
 
 # USE NBVIEWER
 
-#FOR MANUPULATION  import numpy as np
-                   import pandas as pd
+# FOR MANUPULATION  
+                    import numpy as np
+                    import pandas as pd
 
-#FOR VISUALIZATION from plotly.figure_factory 
-                   import create_table
-                   import plotly.express as px
-                   import plotly.offline as py
-                   import plotly.graph_objs as go
+# FOR VISUALIZATION 
+                    from plotly.figure_factory 
+                    import create_table
+                    import plotly.express as px
+                    import plotly.offline as py
+                    import plotly.graph_objs as go
                   
 Name of the dataset : gapminder
 
