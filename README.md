@@ -46,5 +46,5 @@
                     facet plot
                     line_geo
                     choropleth
-line plot
-area plot
+                    line plot
+                    area plot
