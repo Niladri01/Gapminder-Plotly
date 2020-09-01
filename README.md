@@ -2,6 +2,8 @@
 
 ## USE NBVIEWER
 
+*Aim:* The aim of this project was to implement Plotly Express for rapid data visualization and analysis, Customize charts, animations, and demonstrate the various plotly.express features
+
 ## FOR MANUPULATION  
         import numpy as np
         import pandas as pd
@@ -18,10 +20,6 @@
 
 ## Type of the dataset : 
         dataframe
-
-## Aim
-        The aim of this project was to implement Plotly Express for rapid data visualization and analysis, 
-        Customize charts, animations, and demonstrate the various plotly.express features
 
 ## Tasks:
         Loading the data
